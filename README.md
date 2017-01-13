@@ -15,4 +15,4 @@ I have a number of projects that I have worked on, and I've deployed over a doze
 
 * [ABMediaView](https://andrewboryk.github.io/ABMediaView/): A library I built for drop-in image, video, and GIF display and lazy-loading functionality. As well as the functionality to minimize the view from fullscreen.
 
-* [ABUtils](https://www.github.com/andrewboryk/ABUtils): A Utils library I built that can be used in any iOS project, to reduce the amount of repetitive code by providing users with useful pre-written functions.
+* [ABUtils](https://andrewboryk.github.io/ABUtils/): A Utils library I built that can be used in any iOS project, to reduce the amount of repetitive code by providing users with useful pre-written functions.
