@@ -2,8 +2,6 @@
   <img src="https://github.com/AndrewBoryk/andrewboryk.github.io/blob/master/ABDevelopmentLogo.png?raw=true" alt="AB Developmoent custom logo"/>
 </p>
 
-# Andrew Boryk's Portfolio
-
 ## About Me
 Welcome. My name is Andrew Boryk, and I am an iOS Developer and Entrepreneur. I began coding when I was 12, which is a skill I’ve continued to practice for the past 9 years. My relationship with developing iPhone apps originated in my senior year of high school. It's been 5 years since then, and I’ve continued to teach myself iOS development, while graduating college with an Accounting degree. I’ve published several arcade games, three social media apps, and an app for our college’s newspaper. My most recent venture was a college social media named Tapt, where I was the Co-founder, Chief Technology Officer, and Lead iOS developer.
 
