@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AndrewBoryk/andrewboryk.github.io/blob/master/ABDevelopmentLogo.png?raw=true" alt="AB Developmoent custom logo"/>
+  <img src="https://github.com/AndrewBoryk/andrewboryk.github.io/blob/master/ABDevelopmentLogo.png?raw=true" alt="AB Developmoent custom logo" height="250" width = "900"/>
 </p>
 
 ## About Me
