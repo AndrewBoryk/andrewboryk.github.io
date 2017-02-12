@@ -3,7 +3,7 @@
 </p>
 
 ## About Me
-Welcome. My name is Andrew Boryk, and I am an iOS Developer and Entrepreneur. I began coding when I was 12, which is a skill I’ve continued to practice for the past 9 years. My relationship with developing iPhone apps originated in my senior year of high school. It's been 5 years since then, and I’ve continued to teach myself iOS development, while graduating college with an Accounting degree. I’ve published several arcade games, three social media apps, and an app for our college’s newspaper. My most recent venture was a college social media named Tapt, where I was the Co-founder, Chief Technology Officer, and Lead iOS developer.
+Welcome. My name is Andrew Boryk, and I am an iOS Developer and Entrepreneur. I began coding when I was 12, which is a skill I’ve continued to practice for the past 9 years. My relationship with developing iPhone apps originated in my senior year of high school. It's been 5 years since then, and I’ve continued to teach myself iOS development, while graduating college with a degree in Accounting Computer Information Systems. I’ve published several arcade games, three social media apps, an app for our college’s newspaper, as well as several open source libraries available via CocoaPods. My most recent venture was a college social media named Tapt, where I was the Co-founder, Chief Technology Officer, and Lead iOS developer.
 
 Currently I’m looking for an opportunity to contribute my skills as an iOS developer employed full-time or under contract.
 
