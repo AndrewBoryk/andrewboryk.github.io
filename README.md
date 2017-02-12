@@ -17,8 +17,8 @@ I have a number of projects that I have worked on, and I've deployed over a doze
 
 * [ABMediaView](https://github.com/AndrewBoryk/ABMediaView): A library I built for drop-in image, video, GIF and audio display and lazy-loading functionality. ABMediaView which subclasses UIImageView, and has functionality to minimize from fullscreen, as well as show GIF previews for videos.
 
+* [ABVolumeControl](https://github.com/AndrewBoryk/ABVolumeControl): A custom volume control that replaces MPVolumeView, with multiple styles available, and a delegate to implement one's own custom volume view.
+
 * [ABUtils](https://github.com/AndrewBoryk/ABUtils): A Utils library I built that can be used in any iOS project, to reduce the amount of repetitive code by providing users with useful pre-written functions.
 
 * [ABKeyboardAccessory](https://github.com/AndrewBoryk/ABKeyboardAccessory): A library which can be used as an inputAccessory to a UITextField or UITextView, and relays whether the keyboard has been shown or has disappeared for the field/view.
-
-* [ABVolumeControl](https://github.com/AndrewBoryk/ABVolumeControl): A custom volume control that replaces MPVolumeView, with multiple styles available, and a delegate to implement one's own custom volume view.
