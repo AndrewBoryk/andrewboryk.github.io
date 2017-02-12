@@ -11,10 +11,14 @@ Currently I’m looking for an opportunity to contribute my skills as an iOS dev
 
 I have a number of projects that I have worked on, and I've deployed over a dozen applications to the App Store. Some projects I would like to make note of are:
 
-* [Tapt](http://www.tapt.io): I was Co-founder, CTO, and the Lead Developer of the [iOS Application](https://itunes.apple.com/us/app/tapt-exclusive-campus-feed/id982739793?mt=8)
+* [Tapt](http://www.tapt.io): Tapt was a College student-only social media. I was Co-founder, CTO, and the Lead Developer of the [iOS Application](https://itunes.apple.com/us/app/tapt-exclusive-campus-feed/id982739793?mt=8). 
 
 * [Land That Rocket!](https://itunes.apple.com/us/app/land-that-rocket!/id1042046100?mt=8): A fun and challenging game that was imagined, designed, and built within a 24-hour time frame. 
 
-* [ABMediaView](https://andrewboryk.github.io/ABMediaView/): A library I built for drop-in image, video, and GIF display and lazy-loading functionality. As well as the functionality to minimize the view from fullscreen.
+* [ABMediaView](https://github.com/AndrewBoryk/ABMediaView): A library I built for drop-in image, video, GIF and audio display and lazy-loading functionality. ABMediaView which subclasses UIImageView, and has functionality to minimize from fullscreen, as well as show GIF previews for videos.
 
-* [ABUtils](https://andrewboryk.github.io/ABUtils/): A Utils library I built that can be used in any iOS project, to reduce the amount of repetitive code by providing users with useful pre-written functions.
+* [ABUtils](https://github.com/AndrewBoryk/ABUtils): A Utils library I built that can be used in any iOS project, to reduce the amount of repetitive code by providing users with useful pre-written functions.
+
+* [ABKeyboardAccessory](https://github.com/AndrewBoryk/ABKeyboardAccessory): A library which can be used as an inputAccessory to a UITextField or UITextView, and relays whether the keyboard has been shown or has disappeared for the field/view.
+
+* [ABVolumeControl](https://github.com/AndrewBoryk/ABVolumeControl): A custom volume control that replaces MPVolumeView, with multiple styles available, and a delegate to implement one's own custom volume view.
