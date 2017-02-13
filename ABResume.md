@@ -1,5 +1,5 @@
 #Andrew Boryk#
-[Email](andrewcboryk@gmail.com) | [GitHub](https://github.com/AndrewBoryk/) | [Twitter](https://twitter.com/TrepIsLife)
+[Email](mailto:andrewcboryk@gmail.com) | [GitHub](https://github.com/AndrewBoryk/) | [Twitter](https://twitter.com/TrepIsLife)
 
 ##EDUCATION##
 **Mercy College, Dobbs Ferry, NY**  
