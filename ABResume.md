@@ -46,7 +46,7 @@
 * Released several game and utility apps, including a directory for the Virtual Enterprise program
 
 ***
-##Programming and Mobile Development##   
+##Programming and Mobile Development##
 
 | Language                   | Experience                     |
 |----------------------------|--------------------------------|
