@@ -2,17 +2,17 @@
 [Email](mailto:andrewcboryk@gmail.com) | [GitHub](https://github.com/AndrewBoryk/) | [Twitter](https://twitter.com/TrepIsLife)
 
 ##EDUCATION##
-**Mercy College, Dobbs Ferry, NY**  
-*Bachelor of Science in Accounting/Computer Information Systems*  
+**Mercy College, Dobbs Ferry, NY**   
+*Bachelor of Science in Accounting/Computer Information Systems*    
 *Graduated December 2016*
 * GPA: 3.9
 * Member of the Business Honors Program
 
 ***
 ##EXPERIENCE##
-**Freelance iOS Developer**, New York City, NY
-*Licensed iOS Developer*
-*September 2013 - Present*
+**Freelance iOS Developer**, New York City, NY  
+*Licensed iOS Developer*  
+*September 2013 - Present*  
 * Deployed several independent apps, including multiple games and a Parse-backed social app
 * Employed AFNetworking to establish connections and make requests with RESTful API
 * Built & utilized CocoaPods for various frameworks, such as Socket IO for real-time messaging 
