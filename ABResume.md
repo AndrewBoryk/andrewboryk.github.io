@@ -1,7 +1,7 @@
-#Andrew Boryk#
+#Andrew Boryk
 [Email](mailto:andrewcboryk@gmail.com) | [GitHub](https://github.com/AndrewBoryk/) | [Twitter](https://twitter.com/TrepIsLife)
 
-##EDUCATION##
+##EDUCATION
 **Mercy College, Dobbs Ferry, NY**   
 *Bachelor of Science in Accounting/Computer Information Systems*    
 *Graduated December 2016*
@@ -9,7 +9,7 @@
 * Member of the Business Honors Program
 
 ***
-##EXPERIENCE##
+##EXPERIENCE
 **Freelance iOS Developer**, New York City, NY  
 *Licensed iOS Developer*  
 *September 2013 - Present*  
@@ -46,7 +46,7 @@
 * Released several game and utility apps, including a directory for the Virtual Enterprise program
 
 ***
-##Programming and Mobile Development##
+##Programming and Mobile Development
 
 | Language                   | Experience                     |
 |----------------------------|--------------------------------|
@@ -57,7 +57,7 @@
 			           						  
 
 ***
-##SKILLS##
+##SKILLS
 * Programming: iOS Development in Objective-C using Xcode, Instruments, and iTunesConnect
 * Frameworks: AFNetworking, Socket.IO, Facebook SDK, Realm, AVFoundation, and JLRoutes
 * Tools: Thorough understanding of Scrum, Sketch, Trello, Slack, Fabric, CocoaPods, and GitHub
