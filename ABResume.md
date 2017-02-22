@@ -10,6 +10,13 @@
 
 ***
 ##EXPERIENCE##
+**Freelance iOS Developer**, New York City, NY
+*Licensed iOS Developer*
+*September 2013 - Present*
+* Deployed several independent apps, including multiple games and a Parse-backed social app
+* Employed AFNetworking to establish connections and make requests with RESTful API
+* Built & utilized CocoaPods for various frameworks, such as Socket IO for real-time messaging 
+
 **[Tapt](http://apple.co/2h0haye)**, New York City, NY  
 *Co-founder & Chief Technology Officer*  
 *July 2015 – December 2016*  
@@ -48,9 +55,6 @@
 | Java                       | September 2011 to January 2013 |
 | Licensed iOS Developer     | September 2012 to Present      |
 			           						  
-* Deployed several independent apps, including multiple games and a Parse-backed social app
-* Employed AFNetworking to establish connections and make requests to RESTful API
-* Built & utilized CocoaPods for various frameworks, such as Socket IO for real-time messaging 
 
 ***
 ##SKILLS##
