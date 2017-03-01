@@ -18,7 +18,7 @@ I have a number of projects that I have worked on, and I've deployed over a doze
 
 * [Land That Rocket!](https://itunes.apple.com/us/app/land-that-rocket!/id1042046100?mt=8): A fun and challenging game that was imagined, designed, and built within a 24-hour time frame. 
 
-* [ABMediaView](https://github.com/AndrewBoryk/ABMediaView): A library I built for drop-in image, video, GIF and audio display and lazy-loading functionality. ABMediaView which subclasses UIImageView, and has functionality to minimize from fullscreen, as well as show GIF previews for videos.
+* [ABMediaView](https://github.com/AndrewBoryk/ABMediaView): A library I built for drop-in image, video, GIF and audio display and lazy-loading functionality. ABMediaView which subclasses UIImageView, and has functionality to minimize from fullscreen, as well as show GIF previews for videos. Featured in [Awesome iOS](https://github.com/vsouza/awesome-ios)!
 
 * [ABVolumeControl](https://github.com/AndrewBoryk/ABVolumeControl): A custom volume control that replaces MPVolumeView, with multiple styles available, and a delegate to implement one's own custom volume view.
 
