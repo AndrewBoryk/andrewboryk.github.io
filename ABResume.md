@@ -1,5 +1,5 @@
 #Andrew Boryk
-[Email](mailto:andrewcboryk@gmail.com) | [GitHub](https://github.com/AndrewBoryk/) | [Twitter](https://twitter.com/TrepIsLife)
+[Email](mailto:andrewcboryk@gmail.com) | [GitHub](https://github.com/AndrewBoryk/) | [LinkedIn](https://www.linkedin.com/in/andrewcboryk) | [Twitter](https://twitter.com/TrepIsLife)
 
 ***
 ##EXPERIENCE
